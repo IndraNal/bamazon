@@ -1,5 +1,8 @@
 # bamazon
 
+the results of the tasks are in the img folder.
+https://github.com/IndraNal/bamazon/tree/master/img
+
 Populate this database with different products. (i.e. Insert "mock" data rows into this database and table).
 Then create a Node application called bamazonCustomer.js. Running this application will first display all of the items available for sale. Include the ids, names, and prices of products for sale.
 
