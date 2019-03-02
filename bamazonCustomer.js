@@ -81,7 +81,7 @@ function getproductByID() {
                             function (err, res) {
                                 console.log(res);
                                 if (err) throw err;
-                                console.log("your total price" + total);
+                                console.log("your total price is :" + total);
                             });
                     }
                     else {
